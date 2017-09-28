@@ -5,6 +5,10 @@ public class One {
 		// TODO Auto-generated method stub
 		
 		System.out.println("heelo");
+		
+		System.out.println("heelo");
+		
+		
 
 	}
 
